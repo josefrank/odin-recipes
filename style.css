@@ -1,0 +1,22 @@
+/*This is the style for the index.html file*/
+
+body{
+    font-family: Helvetica, sans-serif;
+    color: #9d6b53;
+}
+
+div{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a{
+    color: green;
+}
+
+ul{
+    list-style: none;
+    font-weight: bold;
+}

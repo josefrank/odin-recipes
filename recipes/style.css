@@ -1,0 +1,20 @@
+/* This is the style.css file for: baked_ziti.html, lasagna.html and macaroni_salad.html*/
+
+body{
+    font-family: Helvetica, sans-serif;
+    color: #9d6b53;
+}
+img{
+    width: 450px;
+    height: auto;
+}
+p{
+    color: black;
+}
+ul{
+    color: black;
+    list-style: none;
+}
+ol{
+    color: black;
+}
